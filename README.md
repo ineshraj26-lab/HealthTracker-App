@@ -9,3 +9,4 @@ A health tracking application developed as part of our Agile Software Developmen
 
 ## Development
 Jira-linked development workflow using branches and pull requests.
+Jira-linked development workflow for Agile Lab 6.
